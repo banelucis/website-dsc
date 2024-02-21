@@ -1,3 +1,1 @@
-//fitur untu Ai
-
-//tambah fitur
+echo "hello 2"
